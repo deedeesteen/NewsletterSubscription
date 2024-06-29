@@ -1,0 +1,14 @@
+{
+  "name": "newslettersubscription",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=s89L0Cfvcos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
